@@ -35,16 +35,26 @@
   /* text-align: center; */
 }
 
-.user-info{
+.grey-text {
   padding-top: 5px;
   color: dimgrey;
   font-size: 18px;
   text-transform: capitalize;
-
 }
 
-.follow-btn{
+.follow-btn {
+  display: inline-block;
   text-decoration: none;
+  /* vertical-align: middle; */
+  text-align: ;
   color: black;
+  margin: 15px 0 0 0;
   border: 1px solid gray;
+  padding: 9px 9px 9px 15px;
 }
+.material-icons {
+  margin-right: 15px;
+  vertical-align: middle;
+}
+
+.follwers-count{}
