@@ -6,7 +6,6 @@
   margin-top: 50px;
   width: 540px;
   height: 450px;
-  /* margin: 0 auto; */
   border: 1px solid black;
 }
 .top-background {
@@ -18,10 +17,8 @@
   width: 125px;
   height: 125px;
   margin-top: -65px;
-
   object-fit: cover;
   object-position: top;
-
   border: 2px solid rgba(128, 128, 128, 0.493);
   border-radius: 50%;
 }
@@ -32,7 +29,6 @@
 .usr-name {
   max-width: 75%;
   font-size: 25px;
-  /* text-align: center; */
 }
 
 .grey-text {
@@ -45,8 +41,6 @@
 .follow-btn {
   display: inline-block;
   text-decoration: none;
-  /* vertical-align: middle; */
-  text-align: ;
   color: black;
   margin: 15px 0 0 0;
   border: 1px solid gray;
@@ -56,5 +50,3 @@
   margin-right: 15px;
   vertical-align: middle;
 }
-
-.follwers-count{}
