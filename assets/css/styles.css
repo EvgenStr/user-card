@@ -11,7 +11,7 @@ body{
   height: 450px;
   border: 1px solid black;
   padding: 5px;
-  background-color: white;
+  /* background-color: white; */
 }
 
 .card-header {
@@ -42,6 +42,7 @@ body{
   text-align: center;
   height: 250px;
   box-sizing: border-box;
+  background-color: white;
 }
 .usr-name {
   max-width: 75%;
