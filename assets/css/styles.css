@@ -24,6 +24,7 @@ body{
   height: 125px;
   /* box-sizing: border-box; */
   margin-top: -65px;
+  display: inline-block;
 
 }
 .usr-img {
