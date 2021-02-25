@@ -22,11 +22,13 @@ body{
 .img-wrp {
   width: 125px;
   height: 125px;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   margin-top: -65px;
 
 }
 .usr-img {
+  /* margin-top: -65px; */
+
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -37,6 +39,8 @@ body{
 
 .user-data {
   text-align: center;
+  height: 250px;
+  box-sizing: border-box;
 }
 .usr-name {
   max-width: 75%;
